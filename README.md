@@ -1,4 +1,4 @@
 # Demo_proj
-This is a project 
+This is a project.
 <br>
 Author - Safal Shrestha
